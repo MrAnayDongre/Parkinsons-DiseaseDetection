@@ -3,7 +3,7 @@
 # ABOUT:
 In this Python machine learning project, using the Python libraries scikit-learn, numpy, pandas, and xgboost, we will build a model using an XGBClassifier. We’ll load the data, get the features and labels, scale the features, then split the dataset, build an XGBClassifier, and then calculate the accuracy of our model.
 
-MRI SCAN OF Parkinsons Disease:
+MRI scan of Parkinsons Disease:
 ![download](https://user-images.githubusercontent.com/56868253/124424376-8d3def00-dd84-11eb-9770-de967df8f51e.png)
 
 
