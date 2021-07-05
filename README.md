@@ -8,7 +8,7 @@ MRI scan of Parkinsons Disease:
 
 
 
-# In this Python machine learning project, we detected the presence of Parkinson’s Disease in individuals using various factors. We used an XGBClassifier for this and made use of the sklearn library to prepare the dataset. This gives us an accuracy of 94.87%, which is great.
+# In this Python machine learning project, I have detected the presence of Parkinson’s Disease in individuals using various factors. I have used an XGBClassifier for this and made use of the sklearn library to prepare the dataset. This gives us an accuracy of 94.87%, which is great considering not to overfit.
 
 
 # What is XGBoost?
